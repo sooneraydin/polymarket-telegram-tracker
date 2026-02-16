@@ -48,7 +48,7 @@ Polymarket profilinizden (sağ üstteki profil resmi) wallet adresinizi kopyalay
 git clone https://github.com/sooneraydin/polymarket-telegram-tracker.git
 cd polymarket-telegram-tracker
 
-# Kurulum scriptini çalıştır
+# Kurulum scriptini çalıştır (Eğer Python kurulu ise kurulum yapmana gerek yok, yada system dosyası olarak çalıştıracaksan İleri seviye bölümüne geç(5.admından sonra))
 chmod +x setup.sh
 ./setup.sh
 ```
@@ -56,8 +56,10 @@ chmod +x setup.sh
 ### Adım 5: Ayarları Yap
 
 ```bash
-# .env dosyasını düzenle
-nano .env.telegram
+# .env.telegram örnek dosyasını kopyala
+nano .env.telegram 
+# .env dosyası oluştur ve örnekteki bilgileri doldurarak kaydet
+nano .env
 ```
 
 Şu değerleri değiştir:
