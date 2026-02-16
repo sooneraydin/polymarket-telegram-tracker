@@ -248,18 +248,6 @@ Sorunlarınız için:
 2. Yeni issue açın
 3. README'yi tekrar okuyun
 
----
-
-## 🎯 Yol Haritası
-
-- [ ] Web dashboard
-- [ ] Birden fazla wallet takibi
-- [ ] Discord entegrasyonu
-- [ ] SMS alertleri
-- [ ] Özel alert kuralları
-
----
-
 **⭐ Beğendiyseniz GitHub'da yıldız vermeyi unutmayın!**
 
 🚀 **Mutlu kazançlar!**
