@@ -45,7 +45,7 @@ Polymarket profilinizden (sağ üstteki profil resmi) wallet adresinizi kopyalay
 
 ```bash
 # Repo'yu klonla veya dosyaları indir
-git clone https://github.com/YOUR_USERNAME/polymarket-telegram-tracker.git
+git clone https://github.com/sooneraydin/polymarket-telegram-tracker.git
 cd polymarket-telegram-tracker
 
 # Kurulum scriptini çalıştır
@@ -242,7 +242,7 @@ Pull request'ler hoş karşılanır!
 ## 📞 Destek
 
 Sorunlarınız için:
-1. [Issues](https://github.com/YOUR_USERNAME/polymarket-telegram-tracker/issues) bölümüne bakın
+1. [Issues](https://github.com/sooneraydin/polymarket-telegram-tracker/issues) bölümüne bakın
 2. Yeni issue açın
 3. README'yi tekrar okuyun
 
